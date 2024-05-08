@@ -15,5 +15,6 @@ Work in Java to implement an API using Spring
 
 ## Project structure
 backend_bootcamp
+
    |-- _1_basics_classSmartTV => practice of Java concepts
-   |   |-- 
+
