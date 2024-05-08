@@ -9,10 +9,10 @@ Review the rules for variable declaration.
 
 |Attribute | Type | Example|
 | -- | -- | -- |  
-|Numero | Integer | 1021 |
-|Agencia | Text | 067-8 |
-|Nome | Cliente | Text | MARIO ANDRADE | 
-|Saldo | Decimal | 237.48 |
+|Number | Integer | 1021 |
+|Agency | Text | 067-8 |
+|Client Name | Text | MARIO ANDRADE | 
+|Balance | Decimal | 237.48 |
 
 Review about terminal, main args, and the Scanner class.
 Allow the data to be entered via terminal, with the user receiving a message requesting the information, for example:
