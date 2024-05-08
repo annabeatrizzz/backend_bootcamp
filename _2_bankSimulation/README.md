@@ -20,7 +20,7 @@ Program: "Please enter the Agency number!"
 User: 1021 (then ENTER for the next field)
 Review about concatenation and the String class with the concat method.
 After all the information has been entered, the system should display the following message:
-"Hello [Nome Cliente], thank you for creating an account with our bank. Your agency is [Agencia], account [Numero], and your balance [Saldo] is now available for withdrawal."
+"Hello [Client Name], thank you for creating an account with our bank. Your agency is [Agency], account [Number], and your balance [Balance] is now available for withdrawal."
 
 The fields in [ ] should be replaced by the information entered by the users.
 
