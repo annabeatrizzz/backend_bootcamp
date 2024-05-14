@@ -1,4 +1,4 @@
-## Description
+## Backend Java + Spring Bootcamp Description
 This repository is to register my progress in Back-end Java track of Santander Bootcamp 2024! 
 
 ## Covered Topics
