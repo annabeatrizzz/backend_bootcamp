@@ -1,4 +1,4 @@
-# Challenge 
+# Bank Simulation Challenge 
 
 This challenge was designed to practice Java basic programming skills.
 
