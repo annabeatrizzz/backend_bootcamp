@@ -50,4 +50,5 @@ public class Counter {
             System.out.println("Printing number " + i);
         }
     }
+    scanner.close();
 }
