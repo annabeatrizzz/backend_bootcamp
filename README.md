@@ -21,3 +21,6 @@ backend_bootcamp
   |-- _2_bankSimulation => practice of Java basic programming skills
   
   |-- _3_controlFlow => practice of Java control flow concepts
+
+  |-- _4_OOP => practice of diagram UML
+
