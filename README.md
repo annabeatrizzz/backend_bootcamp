@@ -24,3 +24,6 @@ backend_bootcamp
 
   |-- _4_OOP => practice of diagram UML
 
+  |-- _5_OOPDigitalBanking => practice of OOP in Java in format of Digital Banking
+
+  |-- _6_OOPAbstractingTheBootcamp => practice of OOP in Java
