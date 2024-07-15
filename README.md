@@ -8,6 +8,8 @@ This repository is to register my progress in Back-end Java track of Santander B
 - Testing and Dependency Management in Java Projects;
 - SQL and NoSQL Databases for Back-end Developers;
 - Gaining Productivity with Spring Framework and Java;
+  - Spring Web
+  - Spring Security
 - Soft Skills in the Agile Era: Connecting People and Opportunities.
 
 ## Objectives
