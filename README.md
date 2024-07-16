@@ -29,3 +29,5 @@ backend_bootcamp
   |-- _5_OOPDigitalBanking => practice of OOP in Java in format of Digital Banking
 
   |-- _6_OOPAbstractingTheBootcamp => practice of OOP in Java
+  
+  |-- _7_designPattern => applying design patterns in Java
