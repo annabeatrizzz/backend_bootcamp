@@ -6,4 +6,5 @@ import me.dio.santander_coders_challenge.domain.model.Users;
 
 @Repository
 public interface UserRepository extends JpaRepository<Users, Long> {
+    boolean existsByAccountNumber(String accountNumber);
 }
